@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey! I'm Cristiano! 👋
+
+My technical expertise seems to point out that you are connected to the internet... You're welcome. 
+
+Don't forget to write great commit messages, [this](http://whatthecommit.com/) should help you. 👊
+
+
+### Keep doing amazing things! 🤙
 
 <!--
 **ccarvalheiro/ccarvalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
